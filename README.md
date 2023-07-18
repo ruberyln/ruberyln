@@ -1,5 +1,6 @@
 ### Hey hey, Jesutofunmi Alabi here.  👋
 
+![Jesutofunmi Alabi](https://github.com/ruberyln/ruberyln/assets/23233046/a9fadfa8-dde3-4c07-8444-61a96cbce33c)
 
 
 - 🔭 I’m currently working on A client management system for fashion designers 
@@ -10,3 +11,5 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: i not only design and develop application, but i am a fashion designer that design and create clothes 
 
+## Skills 
+ 
