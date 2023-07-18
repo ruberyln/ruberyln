@@ -12,4 +12,5 @@
 - ⚡ Fun fact: i not only design and develop application, but i am a fashion designer that design and create clothes 
 
 ## Skills 
- 
+👩🏾‍💻  Programming Skills - Javascript| HTML| CSS |React
+👩🏾‍🎨  Design Skills - Figma| Sketching| Vectornator | User stories| Storyboarding | Wireframing 
